@@ -49,7 +49,7 @@ Avoid hardcoding your email and password. Use environment variables or a secure 
 
  Add GUI to manage birthday entries
 
- 📃 License
+ # 📃 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
  # 🙋‍♂️ About Me
